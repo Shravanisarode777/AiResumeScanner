@@ -1,0 +1,6 @@
+{
+  "name": "AI-Based Resume Scanning System",
+  "description": "Automated AI and NLP-powered resume screening, skill extraction, and candidate ranking system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
